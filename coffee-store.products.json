@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67190bd8de2d60c3f48fd55b"
+  },
+  "description": "Eto yung Spanish Latte masarap.",
+  "name": "Spanish Latte",
+  "price": {
+    "$numberLong": "100"
+  },
+  "imageUrl": "spanishlatte.jpg"
+},
+{
+  "_id": {
+    "$oid": "671912f4de2d60c3f48fd55c"
+  },
+  "description": "Eto yung Americano mapait.",
+  "imageUrl": "americano.jpg",
+  "name": "Americano",
+  "price": {
+    "$numberLong": "80"
+  }
+}]
