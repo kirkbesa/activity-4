@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "318c0814-a574-4d40-be97-0298f0b2fdb2",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1729701989481"
+        }
+      },
+      "favorite": {
+        "name": "coffeeShop",
+        "color": "color8"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
